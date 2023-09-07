@@ -1,0 +1,45 @@
+.jumbotron img {
+	border-radius: 100%;
+	border-radius: 5px solid #666;
+}
+
+section {
+	min-height: 300px;
+}
+
+.jumbotron{
+	background-color:thistle ;
+}
+.about {
+	background-color: rosybrown ;
+}
+.portofolio {
+	background-color: rosybrown; 
+}
+.portofolio a img{
+	padding: 5px;
+	width: 300px;
+} 
+.kontak {
+	background-color: rosybrown ;
+}
+hr {
+	width: 300px;
+	border_top: 10px solid #000;
+}
+.html {
+	position: relative;
+}
+
+
+footer{
+  background-color: #ffc0cb;
+     text-align: center;
+   }
+   ul li{
+     display: inline
+   }
+   a{
+     padding: 5px;
+     text-decoration: none;
+   }
